@@ -1,2 +1,3 @@
 # ecoleta
-Aplicação para cadastro de pontos de coleta desenvolvida na 'Next level week'  da rocketseat 
+Aplicação para cadastro de pontos de coleta desenvolvido na 'Next level week'  da rocketseat, utilizando
+React e Node 
